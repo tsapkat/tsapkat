@@ -1,6 +1,6 @@
-#Example of README.md
+# "Example of READ.ME.md"
 
-## The seasons of the year
+## The four seasons
 
 * Winter
 * Spring
